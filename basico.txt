@@ -1,0 +1,22 @@
+npm init -y
+npm inquirer
+
+borrar un paquete "npm unistall color" 
+
+//peticiones http
+https://www.npmjs.com/package/axios
+
+//petionmes de prueba
+https://reqres.in/
+
+MAPBOX
+https://account.mapbox.com/access-tokens
+https://docs.mapbox.com/api/search/geocoding/
+
+OTHER PAQUETE 
+npm i dotenv
+
+//LAS VARIABLES DE ENPTNRO NOP TE SE SUBE A GIOT HUB
+
+tokens.push()
+MAPBOX_KEY=pk.eyJ1IjoiYW5kcmVzaHVhbmNhIiwiYSI6ImNreW5sNmJwaTJ4eGszM3FobnBzZHZ2YmwifQ.KNQCHkR9RDphwTKPzm3Btw
